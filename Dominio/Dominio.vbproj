@@ -3,6 +3,7 @@
   <PropertyGroup>
     <RootNamespace>Dominio</RootNamespace>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    
   </PropertyGroup>
 
   <ItemGroup>

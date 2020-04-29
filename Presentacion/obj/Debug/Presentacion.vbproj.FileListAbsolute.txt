@@ -1,0 +1,11 @@
+C:\Users\santi\source\repos\TRESCAPAS\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\santi\source\repos\TRESCAPAS\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\santi\source\repos\TRESCAPAS\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\santi\source\repos\TRESCAPAS\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\santi\source\repos\TRESCAPAS\Presentacion\obj\Debug\Presentacion.vbprojAssemblyReference.cache
+C:\Users\santi\source\repos\TRESCAPAS\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\santi\source\repos\TRESCAPAS\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\santi\source\repos\TRESCAPAS\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\TRESCAPAS\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\santi\source\repos\TRESCAPAS\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\santi\source\repos\TRESCAPAS\Presentacion\obj\Debug\Presentacion.pdb
