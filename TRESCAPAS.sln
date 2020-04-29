@@ -21,8 +21,6 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Dominio", "Dominio\Dominio.
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Modelos", "Modelos\Modelos.vbproj", "{A64C2FE5-645D-4508-8ACC-E20697F1927E}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Presentacion", "Presentacion\Presentacion.vbproj", "{7FEC0C7B-63D9-4BCB-81EE-7F85E66825DC}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,10 +43,6 @@ Global
 		{A64C2FE5-645D-4508-8ACC-E20697F1927E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A64C2FE5-645D-4508-8ACC-E20697F1927E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A64C2FE5-645D-4508-8ACC-E20697F1927E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7FEC0C7B-63D9-4BCB-81EE-7F85E66825DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7FEC0C7B-63D9-4BCB-81EE-7F85E66825DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7FEC0C7B-63D9-4BCB-81EE-7F85E66825DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7FEC0C7B-63D9-4BCB-81EE-7F85E66825DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
