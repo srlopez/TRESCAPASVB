@@ -1,0 +1,14 @@
+C:\Users\santi\source\repos\TRESCAPAS\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\santi\source\repos\TRESCAPAS\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\santi\source\repos\TRESCAPAS\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\santi\source\repos\TRESCAPAS\Dominio\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\santi\source\repos\TRESCAPAS\Dominio\bin\Debug\netcoreapp3.1\Modelos.dll
+C:\Users\santi\source\repos\TRESCAPAS\Dominio\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\santi\source\repos\TRESCAPAS\Dominio\bin\Debug\netcoreapp3.1\Modelos.pdb
+C:\Users\santi\source\repos\TRESCAPAS\Dominio\obj\Debug\netcoreapp3.1\Dominio.vbprojAssemblyReference.cache
+C:\Users\santi\source\repos\TRESCAPAS\Dominio\obj\Debug\netcoreapp3.1\Dominio.vbproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\TRESCAPAS\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\santi\source\repos\TRESCAPAS\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.vb
+C:\Users\santi\source\repos\TRESCAPAS\Dominio\obj\Debug\netcoreapp3.1\Dominio.vbproj.CopyComplete
+C:\Users\santi\source\repos\TRESCAPAS\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\santi\source\repos\TRESCAPAS\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

@@ -1,0 +1,9 @@
+C:\Users\santi\source\repos\TRESCAPAS\Modelos\bin\Debug\netcoreapp3.1\Modelos.deps.json
+C:\Users\santi\source\repos\TRESCAPAS\Modelos\bin\Debug\netcoreapp3.1\Modelos.dll
+C:\Users\santi\source\repos\TRESCAPAS\Modelos\bin\Debug\netcoreapp3.1\Modelos.pdb
+C:\Users\santi\source\repos\TRESCAPAS\Modelos\obj\Debug\netcoreapp3.1\Modelos.vbprojAssemblyReference.cache
+C:\Users\santi\source\repos\TRESCAPAS\Modelos\obj\Debug\netcoreapp3.1\Modelos.vbproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\TRESCAPAS\Modelos\obj\Debug\netcoreapp3.1\Modelos.AssemblyInfoInputs.cache
+C:\Users\santi\source\repos\TRESCAPAS\Modelos\obj\Debug\netcoreapp3.1\Modelos.AssemblyInfo.vb
+C:\Users\santi\source\repos\TRESCAPAS\Modelos\obj\Debug\netcoreapp3.1\Modelos.dll
+C:\Users\santi\source\repos\TRESCAPAS\Modelos\obj\Debug\netcoreapp3.1\Modelos.pdb

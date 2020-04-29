@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "ConsoleTest", "ConsoleTest\ConsoleTest.vbproj", "{6EB9AD0D-0C5E-4CA3-9DCA-260EB1E85188}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BC2ECD22-1698-43B1-A5BD-B49CE59C26B4} = {BC2ECD22-1698-43B1-A5BD-B49CE59C26B4}
+	EndProjectSection
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "DataAccess", "DataAccess\DataAccess.vbproj", "{BC2ECD22-1698-43B1-A5BD-B49CE59C26B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A2023803-BCA8-40CB-9FA7-0D38F956784E}"
+	ProjectSection(SolutionItems) = preProject
+		database.accdb = database.accdb
+		database.create.sql = database.create.sql
+		database.sq3 = database.sq3
+	EndProjectSection
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Dominio", "Dominio\Dominio.vbproj", "{893BD1F7-0E21-4229-B75F-4EEBB50FF544}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Modelos", "Modelos\Modelos.vbproj", "{A64C2FE5-645D-4508-8ACC-E20697F1927E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Presentacion", "Presentacion\Presentacion.vbproj", "{D04207BB-608D-4719-9893-D9433C009B8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB9AD0D-0C5E-4CA3-9DCA-260EB1E85188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB9AD0D-0C5E-4CA3-9DCA-260EB1E85188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB9AD0D-0C5E-4CA3-9DCA-260EB1E85188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB9AD0D-0C5E-4CA3-9DCA-260EB1E85188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2ECD22-1698-43B1-A5BD-B49CE59C26B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2ECD22-1698-43B1-A5BD-B49CE59C26B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2ECD22-1698-43B1-A5BD-B49CE59C26B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2ECD22-1698-43B1-A5BD-B49CE59C26B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{893BD1F7-0E21-4229-B75F-4EEBB50FF544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{893BD1F7-0E21-4229-B75F-4EEBB50FF544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{893BD1F7-0E21-4229-B75F-4EEBB50FF544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{893BD1F7-0E21-4229-B75F-4EEBB50FF544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A64C2FE5-645D-4508-8ACC-E20697F1927E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64C2FE5-645D-4508-8ACC-E20697F1927E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64C2FE5-645D-4508-8ACC-E20697F1927E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64C2FE5-645D-4508-8ACC-E20697F1927E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D04207BB-608D-4719-9893-D9433C009B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04207BB-608D-4719-9893-D9433C009B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04207BB-608D-4719-9893-D9433C009B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04207BB-608D-4719-9893-D9433C009B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BE7461E-303A-4DD1-905C-E796E7E8874A}
+	EndGlobalSection
+EndGlobal
